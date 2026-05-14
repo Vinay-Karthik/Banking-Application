@@ -7,8 +7,6 @@
 - [🚀 Getting Started](#-getting-started)
 - [📖 Documentation](#-documentation)
 - [⌚ Future Enhancement](#-future-enhancement)
-- [🤝 Contribution](#-contribution)
-- [📞 Contact Information](#-contact-information)
 
 ## 🔍 About
 <p>
@@ -69,22 +67,4 @@ Explore the linked [Java Documentation](https://kartik1502.github.io/Spring-Boot
 As part of our ongoing commitment to improving the banking application, we are planning several enhancements to enrich user experience and expand functionality:
 
 - Implementing a robust notification system will keep users informed about important account activities, such as transaction updates, account statements, and security alerts. Integration with email and SMS will ensure timely and relevant communication.
-- Adding deposit and investment functionalities will enable users to manage their savings and investments directly through the banking application. Features such as fixed deposits, recurring deposits, and investment portfolio tracking will empower users to make informed financial decisions.
-- and more....
-
-<h2>🤝 Contribution</h2>
-
-Contributions to this project are welcome! Feel free to open issues, submit pull requests, or provide feedback to enhance the functionality and usability of this banking application. Follow the basic PR specification while creating a PR.
-
-Let's build a robust and efficient banking system together using Spring Boot microservices!
-
-Happy Banking! 🏦💰
-
-<h2>📞 Contact Information</h2>
-
-If you have any questions, feedback, or need assistance with this project, please feel free to reach out to me:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6361921186)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkulkarni1411@gmail.com)
-
-We appreciate your interest in our project and look forward to hearing from you. Happy coding!
+- Adding deposit and investment functionalities will enable users to manage their savings and investments directly through the banking application. Features such as fixed deposits, recurring deposits, and investment portfolio tracking will empower users to make informed financial decisions and more....
